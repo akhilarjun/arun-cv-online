@@ -24,17 +24,17 @@ body {
 }
 
 .banner .content .img {
-  height: 100px;
-  width: 100px;
+  height: 120px;
+  width: 120px;
   overflow: hidden;
   border-radius: 100%;
   margin: 0 auto;
 }
 
 .banner .content .img img {
-  height: 150px;
+  height: 165px;
   position: relative;
-  left: -9px;
+  left: -1px;
 }
 
 .banner .content .name {
