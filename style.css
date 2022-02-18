@@ -17,7 +17,7 @@ body {
 }
 
 .banner {
-  background-color: #343434;
+  background-color: #14002c;
   padding: 50px 0 0;
   margin-bottom: 10px;
   color: #efeffe;
@@ -151,7 +151,7 @@ section .row .cell.progress .progress-bar i {
   top: 0;
   width: 100%;
   height: 100%;
-  background-color: #343434;
+  background-color: #14002c;
 }
 
 section .row .cell.progress .progress-bar i.tamil {
